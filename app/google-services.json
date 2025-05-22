@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074629842693",
+    "project_id": "dbgodwin",
+    "storage_bucket": "dbgodwin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074629842693:android:6f387eb0a8d039da10096c",
+        "android_client_info": {
+          "package_name": "com.example.dbfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFIaPSHjzE4-J2a96JJE08wuyzFiPwlCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
